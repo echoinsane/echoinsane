@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend
 - 🌱 I’m currently learning Architecture
 - 💞️ I’m looking to collaborate on Angular
-- 📫 How to reach me - echoinsan@mail.ru
+- 📫 How to reach me - echoinsane@mail.ru
 
 <!---
 echoinsane/echoinsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
